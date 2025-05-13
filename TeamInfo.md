@@ -6,10 +6,8 @@
 | ----------- | ---------------------- |
 | TeamID      |        Team-119        |
 | TeamName    |         team119         |
-| Captain     |     N/A    |
-| Captain     |   N/A  |
-| Member1     |          Julio Cornejo          |
-| Member1     |          jcorne23@illinois.edu              |
+| Captain     |          Julio Cornejo          |
+| Captain     |          jcorne23@illinois.edu              |
 | Member2     | Nakul Jain             |
 | Member2     | nakulj2@illinois.edu   |
 | Member3     |         Owen Yang      |
@@ -21,8 +19,6 @@
 |   Info      |        Description     |
 | ----------- | ---------------------- |
 |  Title      |       Watchful Eye LA     |
-| System URL  |      link_to_system    |
-| Video Link  |      link_to_video     |
 
 ## Project Summary
 
